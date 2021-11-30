@@ -6,7 +6,7 @@ namespace GGrf
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Поставьте за вопросы 3!");
         }
     }
 }
